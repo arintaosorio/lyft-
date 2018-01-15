@@ -13,11 +13,5 @@ a lograr:
 
 ![Lyft Website](docs/fullpage.png)
 
-* Para el footer, deberás tomar en cuenta que tiene un hover y se ve como en la
-  siguiente imagen:
-
-  ![Lyft - Footer](docs/footer.gif)
-
-  A
 
 
